@@ -18,4 +18,4 @@
 ### 许可
 
  本项目遵从 [![GPLv2](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](LICENSE.md) 许可协议开源。  
- 禁止用于商业类型项目。
+ 非代码部分将遵从 [![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)协议许可开源。
