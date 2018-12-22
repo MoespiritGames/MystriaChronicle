@@ -2,7 +2,9 @@
 
 ### 简介
 
-“灵境编年史²”开源内容存储库。包含但不仅限于背景故事所涉及的小说、文献、图册、人物形象、场景、世界观和故事逻辑。
+“灵境编年史²”开源内容存储库。  
+本作品原名《灵之秘境：（破晓/残光）》，于2017年夏季由Moespirit Games旗下工作室Moelink Studio和独立游戏工作室Ultimate Secret Project共同制作。  
+同年11月因团队管理原因导致项目解散。本储存库将属于当时项目的部分可公开内容逐步进行公开，以供二次创作和制作参考使用。
 
 ### 储存库体系结构
 
@@ -15,4 +17,5 @@
 
 ### 许可
 
- 本项目遵从 [![GPLv2](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](LICENSE.md) 许可协议开源。暂被禁止用于商业类型项目。
+ 本项目遵从 [![GPLv2](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](LICENSE.md) 许可协议开源。  
+ 禁止用于商业类型项目。
